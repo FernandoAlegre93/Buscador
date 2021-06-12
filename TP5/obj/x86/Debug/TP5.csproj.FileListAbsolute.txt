@@ -1,0 +1,10 @@
+E:\Ferchabbita\Escritorio\Isft\Programacion 2\Ejercicios TP4\TP5\TP5\bin\Debug\TP5.exe
+E:\Ferchabbita\Escritorio\Isft\Programacion 2\Ejercicios TP4\TP5\TP5\bin\Debug\TP5.pdb
+E:\Ferchabbita\Escritorio\Isft\Programacion 2\Ejercicios TP4\TP5\TP5\obj\x86\Debug\TP5.csprojResolveAssemblyReference.cache
+E:\Ferchabbita\Escritorio\Isft\Programacion 2\Ejercicios TP4\TP5\TP5\obj\x86\Debug\TP5.exe
+E:\Ferchabbita\Escritorio\Isft\Programacion 2\Ejercicios TP4\TP5\TP5\obj\x86\Debug\TP5.pdb
+D:\Backup\ISFT 172\2do\Programacion II\TP5\TP5\bin\Debug\TP5.exe
+D:\Backup\ISFT 172\2do\Programacion II\TP5\TP5\bin\Debug\TP5.pdb
+D:\Backup\ISFT 172\2do\Programacion II\TP5\TP5\obj\x86\Debug\TP5.csproj.CoreCompileInputs.cache
+D:\Backup\ISFT 172\2do\Programacion II\TP5\TP5\obj\x86\Debug\TP5.exe
+D:\Backup\ISFT 172\2do\Programacion II\TP5\TP5\obj\x86\Debug\TP5.pdb
